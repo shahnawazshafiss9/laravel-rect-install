@@ -12,3 +12,5 @@ mix.react('resources/js/app.js', 'public/js')
   .sass('resources/sass/app.scss', 'public/css');
   
   ```
+  
+ <script src="{{ asset('js/app.js') }}" defer></script>
