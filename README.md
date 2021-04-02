@@ -17,3 +17,10 @@ mix.react('resources/js/app.js', 'public/js')
   ```
  <script src="{{ asset('js/app.js') }}" defer></script>
  ```
+ # Add babel js in project to convert jxs to javascript 
+ 
+ https://babeljs.io/docs/en/babel-plugin-proposal-class-properties
+```
+npm i @babel/plugin-proposal-class-properties
+
+```
