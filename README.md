@@ -1,6 +1,6 @@
 # laravel-rect-install
 
-
+https://www.youtube.com/watch?v=6btW637QNOg
   ## composer require laravel/ui
   ## php artisan ui react
   ## npm install
