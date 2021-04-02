@@ -24,3 +24,10 @@ mix.react('resources/js/app.js', 'public/js')
 npm i @babel/plugin-proposal-class-properties
 
 ```
+# create file .babilrc
+```
+{
+    "plugins":["@babel/plugin-proposal-class-properties"]
+}
+
+```
